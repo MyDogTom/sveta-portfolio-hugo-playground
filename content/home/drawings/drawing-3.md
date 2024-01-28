@@ -1,17 +1,18 @@
 ---
 weight: 1
 images:
-- https://source.unsplash.com/random?galaxy&5568
-title: galaxy 1
+  - /images/drawings/PXL_20230921_142532092.MP.jpg
+title: illustration 1
 date: 2022-07-23
 tags:
-- archive # all posts
-- space
+  - drawing
+  - home
+  - archive
 ---
 
 ## Markdown
 
-You can use **Markdown** format to write **your story**.
+asdfYou can use **Markdown** format to write **your story**.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
 

@@ -1,17 +1,18 @@
 ---
-weight: 6
+weight: 1
 images:
-- https://source.unsplash.com/random?nature&27517
-title: nature 6
+  - /images/drawings/PXL_20230921_142608295.MP.jpg
+title: illustration 1
 date: 2022-07-23
 tags:
-- archive # all posts
-- nature
+  - drawing
+  - home
+  - archive
 ---
 
 ## Markdown
 
-You can use **Markdown** format to write **your story**.
+asdfYou can use **Markdown** format to write **your story**.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
 
