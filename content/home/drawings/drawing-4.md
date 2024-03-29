@@ -1,29 +1,12 @@
 ---
 weight: 1
 images:
-  - /images/drawings/PXL_20230921_142608295.MP.jpg
-title: illustration 1
+  - /images/drawings/drawing_good_day_on_alster.jpg
+title: Good day on Alster
 date: 2022-07-23
+hideExif: true
+hideDate: true
 tags:
   - drawing
   - home
-  - archive
 ---
-
-## Markdown
-
-asdfYou can use **Markdown** format to write **your story**.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-### Subtitle
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-Some list
-
-1. A b c
-2. A b c
-3. A b c 
