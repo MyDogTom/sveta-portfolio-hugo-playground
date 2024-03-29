@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
+  logo: logo_transparent.png # todo: add your custom logo to static/
   subtitle: Portfolio website # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Svitlana Zemlyankina # todo: set your full name.
