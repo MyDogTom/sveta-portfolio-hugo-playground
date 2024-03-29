@@ -1,9 +1,10 @@
 ---
 weight: 1
 images:
-  - /images/drawings/PXL_20230921_142449319.MP.jpg
-title: illustration 1
-date: 2022-07-23
+  - /images/drawings/drawing_bush.jpg
+title: Bush
+date: 2024-03-29
+hideExif: true
 tags:
   - drawing
   - home
@@ -12,7 +13,7 @@ tags:
 
 ## Markdown
 
-asdf2You can use **Markdown** format to write **your story**.
+asdfYou can use **Markdown** format to write **your story**.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
 

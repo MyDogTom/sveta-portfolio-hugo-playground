@@ -31,10 +31,9 @@
 		{{ $columnsCount = 3 }} 
 	{{ end }}
 {{ end }}
-
 {{ $posts := slice }}
 {{ if .ctx.Site.Taxonomies.tags }}
-{{ $posts = index .ctx.Site.Taxonomies.tags (lower .ctx.Params.Title) }}
+	{{ $posts = index .ctx.Site.Taxonomies.tags (lower .ctx.Params.Title) }}
 	{{ $posts = sort $posts ".Params.weight" "desc" }}
 {{ end }}
 

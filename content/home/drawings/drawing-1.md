@@ -2,17 +2,14 @@
 weight: 1
 images:
   - /images/drawings/PXL_20230921_142343385.MP.jpg
-title: illustration 1
+title: drawing
 date: 2022-07-23
-tags:
-  - drawing
-  - home
-  - archive
+tags: ["drawing", "home", "archive"]
 ---
 
 ## Markdown
 
-asdfYou can use **Markdown** format to write **your story**.
+asdf1You can use **Markdown** format to write **your story**.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
 

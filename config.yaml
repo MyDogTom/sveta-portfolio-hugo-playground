@@ -32,6 +32,7 @@ params:
   homepage: "/home" # homepage link, mostly same with menu.main[0]
   specialPages:
     - home
+    - drawing
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
@@ -56,12 +57,12 @@ menu:
     - name: home
       url: /home/
       weight: 1
-    - name: illustrations
-      url: /tags/illustration/
-      weight: 2
-    - name: drawings
-      url: /tags/drawing/
-      weight: 3
+    # - name: illustration
+    #   url: /tags/illustration/
+    #   weight: 2
+    # - name: drawing
+    #   url: /drawing/
+    #   weight: 3
     - name: about
       url: /about/
       weight: 5
