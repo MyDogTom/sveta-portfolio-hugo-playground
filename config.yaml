@@ -29,7 +29,7 @@ params:
     #  landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://www.instagram.com/zemlyankinasvetlana/'
-  homepage: "/home" # homepage link, mostly same with menu.main[0]
+  homepage: "/home/" # homepage link, mostly same with menu.main[0]
   specialPages:
     - home
     - drawing
