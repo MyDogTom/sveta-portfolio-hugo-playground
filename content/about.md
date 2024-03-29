@@ -8,4 +8,4 @@ hideExif: true
 hideDate: true
 ---
 
-My portfolio website creation is still in progress. Soon I will publish more drawings and add information about me.
+Hello! I'm Svitlana, an artist based in Hamburg. Originally from Kharkiv, Ukraine, I have a passion for sketching and absolutely adore illustrating children's books.

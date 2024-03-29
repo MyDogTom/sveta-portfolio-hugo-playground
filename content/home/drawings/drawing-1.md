@@ -1,26 +1,10 @@
 ---
 weight: 1
 images:
-  - /images/drawings/PXL_20230921_142343385.MP.jpg
-title: drawing
+  - /images/drawings/drawing_while_there_is_time.jpg
+title: While there is time
 date: 2022-07-23
-tags: ["drawing", "home", "archive"]
+hideExif: true
+hideDate: true
+tags: ["drawing", "home"]
 ---
-
-## Markdown
-
-asdf1You can use **Markdown** format to write **your story**.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-### Subtitle
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-Some list
-
-1. A b c
-2. A b c
-3. A b c 

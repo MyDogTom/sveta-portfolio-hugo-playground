@@ -24,9 +24,9 @@ params:
         people: 1
   socials:
     # todo: change these links.
-#    - icon: 'far fa-envelope fa-lg'
-#      url: 'mailto:eternity@bora.sh'
-#      landing: true
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:zemlyanina.svetlana+portfolio@gmail.com'
+    #  landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://www.instagram.com/zemlyankinasvetlana/'
   homepage: "/home" # homepage link, mostly same with menu.main[0]
